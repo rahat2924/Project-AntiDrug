@@ -1,1 +1,8 @@
 # Project-AntiDrug
+
+This project is called “Project Anti Drug '' and it works for our young generation so that they can get rid of all kinds of drugs. really i am very proud and happy to make this project and remark on one of my dreams.
+
+Drug addiction means the regular consumption of substances that are harmful to human health. It has now become a serious problem in our society, especially in urban areas. Many young people are becoming victims of this drug addiction. It is a curse not only for them but for the entire nation. A person takes drugs repeatedly and becomes addicted to them. So he gets used to accepting it. Not only in Bangladesh, but the number of drug addicts is also increasing in almost all countries of the world.
+Currently in our country, the number of drug addicts is constantly increasing. From teenagers to the very old, people of all ages are addicted to drugs and pushing themselves to death. Drug addicts are a threat to society. A drug addict is a threat,especially in the education sector.
+
+In this project, Student' s data will be collected by survey and through dope test . The University authority will be monitoring and collecting data from students regularly. Data will be updated regularly based on surveys and dope tests. By measuring these data University authority will be able to grade the level of drug of a student. If a student' s drug consumption increases day by day, the university authorities will warn him, if necessary inform his guardian. If someone ' s drug levels exceed the limit, the university authorities will talk to the student' s parents and arrange for him/her to be sent to rehab.
